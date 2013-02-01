@@ -1,0 +1,22 @@
+/*Now the CSS*/
+* {
+	background-color:#99CB34;
+	color:#005B4D;
+	}
+table{
+	font-size:x-large;
+	text-align:left;
+	}
+th 	{
+	background-color:#005B4D;
+	color:white;
+	}
+p	{
+	font-size:x-large;
+	text-align:center;
+	}
+img.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
