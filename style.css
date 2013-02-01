@@ -3,6 +3,14 @@
 	background-color:#99CB34;
 	color:#005B4D;
 	}
+.roundy{
+	background-color:#005B4D;
+	padding:20px 30px;
+	border-radius:25px;
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+	}
 table{
 	font-size:x-large;
 	text-align:left;
@@ -17,6 +25,10 @@ p	{
 	}
 img.logo{
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+table.blocktable{
 	margin-left: auto;
 	margin-right: auto;
 	}
